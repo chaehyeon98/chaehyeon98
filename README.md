@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyeon98&layout=compact)
+
 🔧기술 스택
 <div>
   <img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat"/>
